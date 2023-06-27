@@ -1,0 +1,14 @@
+{
+	"login": {
+		"emailID": "advisorrahul@yopmail.com",
+		"otp": "4321",
+		"profileName": "advisor rahul"
+	},
+	"invalidOtp": {
+		"emailID": "abc@yopmail.com",
+		"otp": "1234"
+	},
+	"invalidEmail": {
+		"emailID": "abc@yopmailcom"
+	}
+}

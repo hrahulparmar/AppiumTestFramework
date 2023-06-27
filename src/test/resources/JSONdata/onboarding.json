@@ -1,0 +1,43 @@
+{
+	"studentData": {
+		"emailID": "rahul_parmar_38@yopmail.com",
+		"otp": "4321",
+		"firstName": "rahul",
+		"lastName": "student",
+		"schoolName": "Lilliput",
+		"grade": "graduate",
+		"linkedInURL": "https://www.linkedin.com/in/1baa5/",
+		"aboutMe": "I am the Best",
+		"academics": "Academic Decathalon",
+		"interest": "software test"
+	},
+	"advisorData": {
+		"emailID": "rahul_parmar_38@yopmail.com",
+		"otp": "1234",
+		"firstName": "rahul",
+		"lastName": "advisorp",
+		"profession": "Techie",
+		"linkedInURL": "https://www.linkedin.com/in/1baa4",
+		"aboutMe": "Get Experts advice",
+		"expertise": "software"
+	},
+	"bothData": {
+		"emailID": "rahul_parmar_30@yopmail.com",
+		"otp": "1234",
+		"firstName": "rahul",
+		"lastName": "bothrp",
+		"schoolName": "Lilliput",
+		"grade": "graduate",
+		"linkedInURL": "https://www.linkedin.com/in/1baa3",
+		"aboutMe": "Student and Advisor",
+		"interest": "software",
+		"academics": "Academic Decathalon",
+		"expertise": "software Testing"
+	},
+	"negative": {
+		"emailID": "rahul_parmar_38@yopmail.com",
+		"otp": "4321",
+		"linkedInURL": "tps://www.linkedincom/in/1baa3",
+		"aboutMe": "validation check"
+	}
+}
